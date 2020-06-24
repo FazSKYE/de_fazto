@@ -1,9 +1,9 @@
 #!/bin/bash
-#    _           __           _
-  __| | ___     / _| __ _ ___| |_ ___
- / _` |/ _ \   | |_ / _` |_  / __/ _ \
-| (_| |  __/   |  _| (_| |/ /| || (_) |
- \__,_|\___|___|_|  \__,_/___|\__\___/
+# FazSKYE PROJECT NO.1
+# WELCOME....
+# THIS REPO / TOOL IS JUST FOR EDUCATIONAL!
+# de_fazto ,contact me on @iamkingfaz
+
 
 trap 'printf "\n";stop;exit 1' 2
 
