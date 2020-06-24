@@ -137,11 +137,11 @@ fi
 
 banner() {
 
-printf "\e[1;77m     _           __           _             \e[0m\n"
-printf "\e[1;77m  __| | ___     / _| __ _ ___| |_ ___        \e[0m\n"
-printf "\e[1;77m / _` |/ _ \   | |_ / _` |_  / __/ _ \        \e[0m\n"
-printf "\e[1;77m| (_| |  __/   |  _| (_| |/ /| || (_) |        \e[0m\n"
-printf "\e[1;77m \__,_|\___|___|_|  \__,_/___|\__\___/bukan hacker       \e[0m\n"
+printf "\e[1;77m      _          __ __          _                         \e[0m\n"
+printf "\e[1;77m   __| | ___    | ___| __ _ ___| |_ ___                   \e[0m\n"
+printf "\e[1;77m  / _` I/ _ \   2 3_ / _` |_  / __/ _ \                   \e[0m\n"
+printf "\e[1;77m | (_| |  __/   |  _| (_| |/ /| || (_) |                  \e[0m\n"
+printf "\e[1;77m  \__,_|\___|___|_|  \__,_/___|\__\___/bukan hacker       \e[0m\n"
 
 printf "\n"
 printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by:  @linux_choice \e[0m\e[1;93m.:.:.\e[0m\n"
